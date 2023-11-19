@@ -24,15 +24,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2023 - To: 16 November 2023
+From: 11 November 2023 - To: 18 November 2023
 
-Total Time: 6 hrs 11 mins
+Total Time: 19 hrs 21 mins
 
-JavaScript   3 hrs 51 mins   ███████████████▓░░░░░░░░░   62.24 %
-JSON         1 hr 36 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.97 %
-Other        26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
-Git          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
-Text         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+JavaScript   14 hrs 34 mins  ██████████████████▓░░░░░░   75.25 %
+JSON         2 hrs 51 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.72 %
+Bash         51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+Other        24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+Git Config   19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
 ```
 
 <!--END_SECTION:waka-->
