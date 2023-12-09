@@ -1,4 +1,4 @@
-<h2 align="center"> Hi, im hasyim 👋 </h2>
+<h2 align="center"> Hi, im hasyim </h2>
 
 <p align="center"> I am a third-year computer science student aiming to become a full-stack web developer. Currently, I am interested in backend development using JavaScript. </p>
 
