@@ -1,23 +1,9 @@
-<h2 align="center"> Hi, im hasyim </h2>
+<h1 align="center">Hi I'm Hasyim</h1>
+<h3 align="center">A computer science student who aims to become a full-stack web developer and has a great curiosity to learn new things. I’m currently learning backend development using JavaScript</h3>
 
-<p align="center"> I am a third-year computer science student aiming to become a full-stack web developer. Currently, I am interested in backend development using JavaScript. </p>
+- You can reach me on **hasyim11c@gmail.com**
 
----
-
-<!--
-**hasyimashari/hasyimashari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasyimashari&show_icons=true&theme=transparent)
 
 📊 **Weekly development breakdown**
 
