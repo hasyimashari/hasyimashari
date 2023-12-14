@@ -2,9 +2,7 @@
 
 <p align="center">A computer science student who aims to become a full-stack web developer and has a great curiosity to learn new things. I’m currently learning backend development using JavaScript.</p>
 
----
-
-![Anurag's GitHub stats](https://github-readme-stats-one-pink-11.vercel.app/api?username=hasyimashari&show_icons=true&theme=transparent&hide=contribs,prs)
+<!--![Anurag's GitHub stats](https://github-readme-stats-one-pink-11.vercel.app/api?username=hasyimashari&show_icons=true&theme=transparent&hide=contribs,prs)-->
 
 ---
 
