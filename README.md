@@ -4,9 +4,7 @@
 
 - You can reach me on **hasyim11c@gmail.com**
 
-📊 **My Github Stats**
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasyimashari&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasyimashari)
 
 📊 **Weekly development breakdown**
 
