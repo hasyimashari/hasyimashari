@@ -2,6 +2,8 @@
 
 <p align="center">A computer science student who aims to become a full-stack web developer and has a great curiosity to learn new things. I’m currently learning backend development using JavaScript. You can reach me on **hasyim11c@gmail.com**</p>
 
+- You can reach me on **hasyim11c@gmail.com**
+
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasyimashari&show_icons=true&theme=transparent)
