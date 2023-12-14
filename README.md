@@ -1,8 +1,6 @@
 <h2 align="center">Hi I'm Hasyim</h2>
 
-<p align="center">A computer science student who aims to become a full-stack web developer and has a great curiosity to learn new things. I’m currently learning backend development using JavaScript. You can reach me on **hasyim11c@gmail.com**</p>
-
-- You can reach me on **hasyim11c@gmail.com**
+<p align="center">A computer science student who aims to become a full-stack web developer and has a great curiosity to learn new things. I’m currently learning backend development using JavaScript.</p>
 
 ---
 
@@ -29,3 +27,5 @@ JSON         5 mins          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ---
+
+- You can reach me on **hasyim11c@gmail.com**
