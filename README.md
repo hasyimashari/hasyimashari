@@ -1,10 +1,14 @@
-<h1 align="center">Hi I'm Hasyim</h1>
+<h2 align="center">Hi I'm Hasyim</h2>
 
-<h3 align="center">A computer science student who aims to become a full-stack web developer and has a great curiosity to learn new things. I’m currently learning backend development using JavaScript</h3>
+<p align="center">A computer science student who aims to become a full-stack web developer and has a great curiosity to learn new things. I’m currently learning backend development using JavaScript</p>
 
 - You can reach me on **hasyim11c@gmail.com**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasyimashari)
+---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasyimashari&show_icons=true&theme=transparent)
+
+---
 
 📊 **Weekly development breakdown**
 
