@@ -5,7 +5,6 @@
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats-one-pink-11.vercel.app/api?username=hasyimashari&show_icons=true&theme=transparent&hide=contribs,prs)
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=hasyimashari)](https://github.com/LordDashMe/github-contribution-stats/)
 
 ---
 
