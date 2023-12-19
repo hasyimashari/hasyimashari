@@ -11,14 +11,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 December 2023 - To: 17 December 2023
+From: 11 December 2023 - To: 18 December 2023
 
-Total Time: 12 hrs 41 mins
+Total Time: 12 hrs 32 mins
 
-JavaScript   11 hrs 33 mins  ██████████████████████▓░░   91.01 %
-Python       37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
-Bash         19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
-JSON         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+JavaScript   11 hrs 39 mins  ███████████████████████▒░   93.04 %
+Python       37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
+JSON         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+Bash         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
