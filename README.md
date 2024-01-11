@@ -11,12 +11,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 January 2024 - To: 09 January 2024
+From: 03 January 2024 - To: 10 January 2024
 
-Total Time: 3 mins
+Total Time: 0 secs
 
-JavaScript   2 mins          ███████████████▓░░░░░░░░░   62.62 %
-Other        1 min           █████████▒░░░░░░░░░░░░░░░   37.38 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
