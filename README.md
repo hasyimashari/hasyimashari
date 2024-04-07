@@ -9,15 +9,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 March 2024 - To: 05 April 2024
+From: 30 March 2024 - To: 06 April 2024
 
-Total Time: 2 hrs 2 mins
+Total Time: 28 mins
 
-YAML     1 hr 30 mins    ██████████████████▓░░░░░░   74.26 %
-Docker   15 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.72 %
-HTML     10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
-Go       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
-Bash     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+Docker   15 mins         █████████████▓░░░░░░░░░░░   54.21 %
+YAML     7 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.57 %
+Go       4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.98 %
+Bash     1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
 ```
 
 <!--END_SECTION:waka-->
