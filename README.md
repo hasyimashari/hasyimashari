@@ -9,11 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 April 2024 - To: 13 April 2024
+From: 07 April 2024 - To: 14 April 2024
 
-Total Time: 0 secs
+Total Time: 23 mins
 
-No activity tracked
+Docker   12 mins         █████████████▒░░░░░░░░░░░   52.75 %
+Bash     5 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.66 %
+YAML     4 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.28 %
+Go       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+HTML     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
 ```
 
 <!--END_SECTION:waka-->
