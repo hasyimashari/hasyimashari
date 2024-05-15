@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 May 2024 - To: 13 May 2024
+From: 07 May 2024 - To: 14 May 2024
 
-Total Time: 1 hr 12 mins
+Total Time: 1 hr 28 mins
 
-SSH Config   26 mins         █████████▒░░░░░░░░░░░░░░░   36.74 %
-YAML         17 mins         ██████░░░░░░░░░░░░░░░░░░░   24.03 %
-Bash         13 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.37 %
-Git Config   9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.80 %
-TypeScript   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+SSH Config   26 mins         ███████▓░░░░░░░░░░░░░░░░░   30.36 %
+YAML         17 mins         █████░░░░░░░░░░░░░░░░░░░░   19.58 %
+TypeScript   16 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.28 %
+Bash         13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.96 %
+Git Config   10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.35 %
 ```
 
 <!--END_SECTION:waka-->
