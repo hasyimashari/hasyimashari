@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 May 2024 - To: 19 May 2024
+From: 13 May 2024 - To: 20 May 2024
 
-Total Time: 4 hrs 52 mins
+Total Time: 4 hrs 55 mins
 
-YAML         2 hrs 46 mins   ██████████████▒░░░░░░░░░░   56.84 %
-Bash         1 hr 18 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.93 %
-TypeScript   16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
-Go           14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
-Git Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+YAML         2 hrs 53 mins   ██████████████▓░░░░░░░░░░   58.87 %
+Bash         1 hr 18 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.68 %
+Go           14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
+TypeScript   13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
+Git Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
 ```
 
 <!--END_SECTION:waka-->
