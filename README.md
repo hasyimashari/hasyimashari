@@ -18,6 +18,5 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
----
 
 <!-- - You can reach me on **hasyim11c@gmail.com** -->
