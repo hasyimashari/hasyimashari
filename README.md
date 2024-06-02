@@ -20,4 +20,4 @@ No activity tracked
 
 ---
 
-- You can reach me on **hasyim11c@gmail.com**
+<!-- - You can reach me on **hasyim11c@gmail.com** -->
