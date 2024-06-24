@@ -9,15 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 June 2024 - To: 22 June 2024
+From: 16 June 2024 - To: 23 June 2024
 
-Total Time: 9 hrs 37 mins
+Total Time: 1 hr 49 mins
 
-Terraform   5 hrs 37 mins   ██████████████▓░░░░░░░░░░   58.42 %
-YAML        2 hrs 47 mins   ███████▒░░░░░░░░░░░░░░░░░   28.95 %
-Markdown    37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
-Other       32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
-HCL         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Terraform   41 mins         █████████▒░░░░░░░░░░░░░░░   37.93 %
+YAML        37 mins         ████████▓░░░░░░░░░░░░░░░░   34.53 %
+Other       30 mins         ███████░░░░░░░░░░░░░░░░░░   27.54 %
 ```
 
 <!--END_SECTION:waka-->
