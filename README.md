@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 June 2024 - To: 24 June 2024
+From: 18 June 2024 - To: 25 June 2024
 
-Total Time: 1 hr 49 mins
+Total Time: 51 mins
 
-Terraform   47 mins         ██████████▓░░░░░░░░░░░░░░   43.08 %
-YAML        37 mins         ████████▓░░░░░░░░░░░░░░░░   34.02 %
-Other       23 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.20 %
-Go          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-Docker      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+YAML        17 mins         ████████▓░░░░░░░░░░░░░░░░   35.13 %
+Terraform   16 mins         ████████▒░░░░░░░░░░░░░░░░   33.03 %
+Other       14 mins         ███████░░░░░░░░░░░░░░░░░░   28.20 %
+Go          1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+Docker      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
