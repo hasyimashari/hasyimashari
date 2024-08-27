@@ -9,15 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 August 2024 - To: 25 August 2024
+From: 19 August 2024 - To: 26 August 2024
 
-Total Time: 10 mins
+Total Time: 0 secs
 
-Terraform    4 mins          ███████████▒░░░░░░░░░░░░░   44.71 %
-HCL          3 mins          ████████▒░░░░░░░░░░░░░░░░   32.92 %
-JavaScript   1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   14.17 %
-JSON         0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
-Other        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
