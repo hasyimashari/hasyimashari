@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 September 2024 - To: 12 September 2024
+From: 06 September 2024 - To: 13 September 2024
 
-Total Time: 2 hrs 28 mins
+Total Time: 2 hrs 36 mins
 
-Go          1 hr 31 mins    ███████████████▒░░░░░░░░░   61.53 %
-Markdown    43 mins         ███████▒░░░░░░░░░░░░░░░░░   29.37 %
-Terraform   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
-Bash        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
-Other       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+Go          1 hr 31 mins    ██████████████▓░░░░░░░░░░   58.18 %
+Markdown    43 mins         ███████░░░░░░░░░░░░░░░░░░   27.77 %
+Other       9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
+Terraform   7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
+Bash        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
 ```
 
 <!--END_SECTION:waka-->
