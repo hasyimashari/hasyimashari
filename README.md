@@ -6,7 +6,7 @@
 
 📊 **Weekly development breakdown**
 
-<!--START_SECTION:waka-->
+<!-- <!--START_SECTION:waka--> -->
 
 ```txt
 From: 10 September 2024 - To: 17 September 2024
@@ -18,7 +18,7 @@ Terraform   7 mins          ██████████▒░░░░░░�
 HCL         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
 ```
 
-<!--END_SECTION:waka-->
+<!-- <!--END_SECTION:waka--> -->
 
 
 <!-- - You can reach me on **hasyim11c@gmail.com** -->
