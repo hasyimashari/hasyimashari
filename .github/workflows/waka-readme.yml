@@ -3,7 +3,7 @@ name: Waka Readme
 on:
   # for manual workflow trigger
   workflow_dispatch:
-  # schedule:
+  schedule:
     # runs at 17:00 UTC (00:00 WIB)
     - cron: "0 17 * * *"
 
