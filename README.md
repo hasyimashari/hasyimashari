@@ -4,8 +4,10 @@
 
 ---
 
-<!--📊 **Weekly development breakdown**-->
+<📊 **Weekly development breakdown**
 
+<!--START_SECTION:waka-->
 
+<!--END_SECTION:waka-->
 
 <!-- - You can reach me on **hasyim11c@gmail.com** -->
