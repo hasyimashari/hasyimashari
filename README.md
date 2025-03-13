@@ -9,11 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 March 2025 - To: 11 March 2025
+From: 05 March 2025 - To: 12 March 2025
 
-Total Time: 0 secs
+Total Time: 1 hr 14 mins
 
-No activity tracked
+Python     56 mins         ███████████████████░░░░░░   75.67 %
+CSV        6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
+C          4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
+Markdown   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+Makefile   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
 ```
 
 <!--END_SECTION:waka-->
