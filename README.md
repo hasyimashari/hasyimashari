@@ -9,12 +9,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 March 2025 - To: 21 March 2025
+From: 15 March 2025 - To: 22 March 2025
 
-Total Time: 3 mins
+Total Time: 16 mins
 
-CSV      3 mins          ████████████████████████▒   96.99 %
-Python   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+JSON     11 mins         ████████████████▒░░░░░░░░   65.88 %
+CSV      3 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.09 %
+CSS      1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
+Python   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
 ```
 
 <!--END_SECTION:waka-->
