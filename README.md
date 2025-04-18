@@ -9,12 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 April 2025 - To: 16 April 2025
+From: 10 April 2025 - To: 17 April 2025
 
-Total Time: 1 hr 52 mins
+Total Time: 2 hrs 37 mins
 
-Python   1 hr 52 mins    █████████████████████████   99.70 %
-CSV      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Python       2 hrs 28 mins   ███████████████████████▓░   94.34 %
+Git Config   8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
+CSV          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
