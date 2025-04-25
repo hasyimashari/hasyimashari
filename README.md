@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 April 2025 - To: 23 April 2025
+From: 17 April 2025 - To: 24 April 2025
 
-Total Time: 1 hr 3 mins
+Total Time: 18 mins
 
-Python       46 mins         ██████████████████▒░░░░░░   73.61 %
-Git Config   8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.75 %
-JSON         7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.57 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-CSV          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Python       10 mins         ██████████████░░░░░░░░░░░   56.07 %
+JSON         7 mins          ██████████░░░░░░░░░░░░░░░   39.44 %
+Other        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+CSV          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
 ```
 
 <!--END_SECTION:waka-->
