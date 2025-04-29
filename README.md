@@ -9,15 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 April 2025 - To: 27 April 2025
+From: 21 April 2025 - To: 28 April 2025
 
-Total Time: 18 mins
+Total Time: 0 secs
 
-Python       10 mins         ██████████████░░░░░░░░░░░   56.07 %
-JSON         7 mins          ██████████░░░░░░░░░░░░░░░   39.44 %
-Other        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
-CSV          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
-Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
