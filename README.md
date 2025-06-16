@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 June 2025 - To: 14 June 2025
+From: 08 June 2025 - To: 15 June 2025
 
-Total Time: 3 hrs 57 mins
+Total Time: 4 hrs 17 mins
 
-YAML         1 hr 49 mins    ███████████▓░░░░░░░░░░░░░   46.10 %
-Bash         1 hr 13 mins    ███████▓░░░░░░░░░░░░░░░░░   31.00 %
-Docker       25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 %
-Python       24 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 %
-Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+YAML         2 hrs 9 mins    ████████████▓░░░░░░░░░░░░   50.44 %
+Bash         1 hr 15 mins    ███████▒░░░░░░░░░░░░░░░░░   29.47 %
+Docker       30 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 %
+Python       18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
+Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka-->
