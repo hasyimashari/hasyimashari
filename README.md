@@ -9,13 +9,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 July 2025 - To: 11 July 2025
+From: 05 July 2025 - To: 12 July 2025
 
-Total Time: 33 mins
+Total Time: 9 mins
 
-Python   19 mins         ██████████████▓░░░░░░░░░░   58.83 %
-CSV      12 mins         █████████▓░░░░░░░░░░░░░░░   38.70 %
-YAML     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+Python   7 mins          ██████████████████░░░░░░░   71.41 %
+CSV      2 mins          ███████░░░░░░░░░░░░░░░░░░   28.59 %
 ```
 
 <!--END_SECTION:waka-->
