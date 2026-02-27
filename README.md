@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 February 2026 - To: 25 February 2026
+From: 19 February 2026 - To: 26 February 2026
 
-Total Time: 20 mins
+Total Time: 49 mins
 
-Bash         8 mins                ██████████░░░░░░░░░░░░░░░   39.55 %
-CSV          6 mins                ███████▒░░░░░░░░░░░░░░░░░   28.95 %
-Python       5 mins                ███████░░░░░░░░░░░░░░░░░░   27.91 %
-Git Config   0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
-YAML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Python         33 mins               █████████████████░░░░░░░░   67.78 %
+Bash           7 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   15.31 %
+CSV            6 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   14.15 %
+git ignore     0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+Git Config     0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
 ```
 
 <!--END_SECTION:waka-->
