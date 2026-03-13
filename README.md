@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 March 2026 - To: 11 March 2026
+From: 05 March 2026 - To: 12 March 2026
 
-Total Time: 22 mins
+Total Time: 16 mins
 
-shell script   5 mins                ██████▒░░░░░░░░░░░░░░░░░░   25.51 %
-Python         5 mins                ██████░░░░░░░░░░░░░░░░░░░   23.98 %
-Bash           5 mins                █████▓░░░░░░░░░░░░░░░░░░░   22.53 %
-YAML           5 mins                █████▒░░░░░░░░░░░░░░░░░░░   21.80 %
-log            1 min                 █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+shell script   5 mins                █████████░░░░░░░░░░░░░░░░   36.15 %
+Bash           5 mins                ████████░░░░░░░░░░░░░░░░░   31.93 %
+YAML           3 mins                ████▓░░░░░░░░░░░░░░░░░░░░   18.74 %
+CSV            0 secs                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
+Python         0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
 ```
 
 <!--END_SECTION:waka-->
