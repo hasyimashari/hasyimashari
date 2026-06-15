@@ -9,13 +9,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 June 2026 - To: 13 June 2026
+From: 08 June 2026 - To: 15 June 2026
 
-Total Time: 38 mins
+Total Time: 31 mins
 
-JSON     19 mins               ████████████▓░░░░░░░░░░░░   50.15 %
-jsonc    18 mins               ████████████░░░░░░░░░░░░░   47.37 %
-Python   0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+JSON    19 mins               ███████████████▒░░░░░░░░░   61.18 %
+jsonc   12 mins               █████████▓░░░░░░░░░░░░░░░   38.82 %
 ```
 
 <!--END_SECTION:waka-->
